@@ -1,6 +1,3 @@
-
-console.log("Running");
-
 const tabs = document.querySelectorAll('.tab');
 const sections = document.querySelectorAll('.content');
 
