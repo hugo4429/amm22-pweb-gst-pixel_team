@@ -1,12 +1,6 @@
 
 console.log("Running");
 
-/*
-var nav = document.getElementsByTagName('nav'); 
-const tabs = nav[0].getElementsByTagName('span');
-const sections = document.getElementsByTagName('section');
-*/
-
 const tabs = document.querySelectorAll('.tab');
 const sections = document.querySelectorAll('.content');
 
